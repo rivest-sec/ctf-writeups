@@ -1,6 +1,6 @@
 # Stolovaya
 
-INNOOpen 2026 · WEB
+INNOOpen 2026 · PWN
 
 ## 1. Смотрим бинарник
 
